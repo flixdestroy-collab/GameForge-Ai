@@ -1,0 +1,23 @@
+# Roblox Studio / Rojo generated files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxlock
+*.rbxl.lock
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+secrets/
+credentials/
+
+# Editor / operating system
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
